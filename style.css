@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand{
+    font-family: 'Teachers', sans-serif;
+    font-size: 30px !important;
+    font-weight: bold;
+
+}
+
+.navbar-transparent {
+    background-color: transparent !important;
+
+}
+
+.map-container { 
+    padding: 20px;
+    width: calc(100% - 50px); /* Adjust this based on the sidebar width */
+}
