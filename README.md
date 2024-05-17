@@ -12,8 +12,10 @@ This project aims to replicate the visual appearance and basic functionality of 
 
 ## Technologies Used
 - HTML5: Markup language for structuring the webpage.
-- CSS3: Stylesheet language for styling the webpage.
+- CSS: Stylesheet language for styling the webpage.
 - Google Fonts: Utilized for typography matching Google Maps' font styles.
+- Bootstrap: Used for HTML frameworks. 
+- Fontawesome: Used to add icons to overlay headings.
 
 ## Setup Instructions
 1. Clone the repository to your local machine:
